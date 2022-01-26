@@ -6,7 +6,7 @@ Implementation of Multi-Label Logistic Regression and Fully Connected Neural Net
 
 ### Fully Connected Neural Network:
 #### Test Accuracy ~ 86%
-<img src="https://user-images.githubusercontent.com/96948413/151183434-0a348130-a5e3-43b9-ae34-c5b9d4cb566e.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/96948413/151183434-0a348130-a5e3-43b9-ae34-c5b9d4cb566e.png" width="700" height="350">
 
 
 
